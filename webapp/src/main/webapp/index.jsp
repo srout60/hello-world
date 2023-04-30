@@ -24,3 +24,4 @@
 						          <p>Already have an account? <a href="#">Sign in</a>.</p>
 							    </div>
 							    </form>
+							    <h1> Thank you for happy learning! <h1>
